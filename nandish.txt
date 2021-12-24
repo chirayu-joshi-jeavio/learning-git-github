@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+We made a team and Nandish is a member.
+We made a team and Nitin is a member.
+=======
+We made a team and Nitin is a member.
+We made a team and Nandish is a member.
+>>>>>>> a020af7b08b684bfeb511ae7567d6e1c8cde8c8a
